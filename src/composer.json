@@ -1,0 +1,10 @@
+{
+    "name": "ngtu/kurdina",
+    "type": "project",
+    "description": "Lab 3 PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
